@@ -5,4 +5,4 @@ Built with pure **HTML** and **CSS**, this site showcases my skills, projects, c
 
 ## 📸 Live Demo
 
-👉 [View Portfolio Live](https://github.com/betsita24/portfolio.git)
+👉 [View Portfolio Live](https://betsita24.github.io/portfolio.git)
